@@ -17,3 +17,7 @@ focused on financial data analysis.
 - NumPy
 - Pandas
 - Matplotlib
+
+
+## Git Practice
+Learning how to use git pull.
